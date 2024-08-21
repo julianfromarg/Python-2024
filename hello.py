@@ -1,3 +1,10 @@
+###########################################
+#
+# Julian Chomicki @2024
+#
+###########################################
+
+
 # import os module
 # modules are other programs, or other bits of code, that we can pull into our program
 # clear is for clearing the screen. It's the same as if we input "Clear" in the Git Bash
